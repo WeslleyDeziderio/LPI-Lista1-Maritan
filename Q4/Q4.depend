@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563125779 source:c:\users\wesll\Área de trabalho\q4\main.cpp
+	<iostream>
+	"Data.h"
+
+1563118048 c:\users\wesll\Área de trabalho\q4\include\data.h
+	<string>
+
+1563126275 source:c:\users\wesll\Área de trabalho\q4\src\data.cpp
+	"Data.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1562904224 source:c:\users\wesll\햞ea de trabalho\q2\src\pessoa.cpp
+	"Pessoa.h"
+
+1562904444 c:\users\wesll\햞ea de trabalho\q2\include\pessoa.h
+	<string>
+
+1563119833 source:c:\users\wesll\햞ea de trabalho\q2\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1563042090 c:\users\wesll\햞ea de trabalho\q2\pessoa.h
+	<string>
+
+1563119795 source:c:\users\wesll\햞ea de trabalho\q2\pessoa.cpp
+	"Pessoa.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563041813 source:c:\users\wesll\Área de trabalho\q3\main.cpp
+	<iostream>
+	"Invoice.h"
+
+1563043371 source:c:\users\wesll\Área de trabalho\q3\src\invoice.cpp
+	"Invoice.h"
+
+1563041362 c:\users\wesll\Área de trabalho\q3\include\invoice.h
+	<string>
+

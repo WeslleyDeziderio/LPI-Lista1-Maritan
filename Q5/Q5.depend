@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1563116283 source:c:\users\wesll\Área de trabalho\q5\src\horario.cpp
+	"Horario.h"
+
+1563113255 c:\users\wesll\Área de trabalho\q5\include\horario.h
+
+1563128287 source:c:\users\wesll\Área de trabalho\q5\main.cpp
+	<iostream>
+	"Horario.h"
+
