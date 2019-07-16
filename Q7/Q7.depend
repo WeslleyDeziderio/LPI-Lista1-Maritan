@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1563296970 source:c:\users\aluno\documents\q7\src\pagamento.cpp
+	"Pagamento.h"
+
+1563294495 c:\users\aluno\documents\q7\include\pagamento.h
+	<string>
+
