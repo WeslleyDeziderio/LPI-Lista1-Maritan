@@ -1,6 +1,6 @@
 #include <iostream>
-#include "include/Pagamento.h"
-#include "include/ControleDePagamentos.h"
+#include "Pagamento.h"
+#include "ControleDePagamentos.h"
 
 int main(void){
     ControleDePagamentos controle1 = ControleDePagamentos();
