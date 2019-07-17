@@ -1,4 +1,5 @@
 #include "Pagamento.h"
+#include <string>
 
 Pagamento::Pagamento(double valorPagamento, std::string nomeDoFuncionario){
     this->valorPagamento = valorPagamento;

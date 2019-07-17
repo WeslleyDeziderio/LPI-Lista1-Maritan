@@ -5,3 +5,15 @@
 1563294495 c:\users\aluno\documents\q7\include\pagamento.h
 	<string>
 
+1563321604 source:c:\users\wesll\downloads\lpi-lista1-maritan-master\q7\main.cpp
+	<iostream>
+	"include/Pagamento.h"
+	"include/ControleDePagamentos.h"
+
+1563297149 c:\users\wesll\downloads\lpi-lista1-maritan-master\q7\include\pagamento.h
+	<string>
+
+1563321709 c:\users\wesll\downloads\lpi-lista1-maritan-master\q7\include\controledepagamentos.h
+	"Pagamento.h"
+	<string>
+

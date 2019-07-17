@@ -1,17 +1,17 @@
 #ifndef CONTROLEDEPAGAMENTOS_H
 #define CONTROLEDEPAGAMENTOS_H
 #include "Pagamento.h"
-#include "string"
+#include <string>
 
 class ControleDePagamentos{
     public:
         ControleDePagamentos();
         virtual ~ControleDePagamentos();
-        void setPagamentos(pagamento);
+        void setPagamentos(Pagamento pagamento1);
         bool existePagamentoParaFuncionario(std::string nomeDoFuncionario);
-        double calculaTotalDePagamentos(double valorDoPagamento);
+        double calculaTotalDePagamentos();
     private:
-        Pagamento pagamento[11];
+        Pagamento pagamento[5];
         int pagamentosTotais;
 };
 

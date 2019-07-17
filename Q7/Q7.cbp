@@ -32,7 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/ControleDePagamentos.h" />
+		<Unit filename="include/Pagamento.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/ControleDePagamentos.cpp" />
+		<Unit filename="src/Pagamento.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

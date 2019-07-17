@@ -1,5 +1,6 @@
-#include "ControleDePagamentos.h"
 #include "Pagamento.h"
+#include "ControleDePagamentos.h"
+#include <string>
 
 ControleDePagamentos::ControleDePagamentos(){
     pagamentosTotais = 0;
@@ -9,7 +10,7 @@ ControleDePagamentos::~ControleDePagamentos(){
 
 }
 
-void ControleDePagamentos::setPagamentos(pagamento){
+void ControleDePagamentos::setPagamentos(Pagamento pagamento1){
 
 }
 
@@ -38,6 +39,6 @@ bool ControleDePagamentos::existePagamentoParaFuncionario(std::string nome){
 }
 
 void ControleDePagamentos::setPagamentos(Pagamento pagamento1){
-    pagamentos[totais] = pagamento1;
-    totais++;
+    pagamentos[pagamentosTotais] = pagamento1;
+    pagamentosTotais++;
 }
